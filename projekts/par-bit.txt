@@ -1,0 +1,2 @@
+Git ir palīgrīks, kas var lokāli saglabāt izmaiņas konkrētiem failiem, tas ir kā atmiņas karte
+Versiju kontrole ir svarīga, lai, ja pēkšņi kaut kas noiet greizi ar jaunajām izmaiņām, ir uz ko atgriezties, un turpināt darbu, tā ir svarīga, jo darbs ir jāsaglabā
